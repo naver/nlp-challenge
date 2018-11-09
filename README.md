@@ -1,4 +1,4 @@
-i# 네이버, 창원대가 함께하는 NLP Challenge
+# 네이버, 창원대가 함께하는 NLP Challenge
 네이버가 창원대와 한국어 자연어처리 기술 대회를 개최합니다.
 개체명 인식(Named-entity Recognition, NER)과 의미역 결정(Semantic Role Labeling, SRL)이라는 자연어 처리의 중요한 두가지 미션을 준비했습니다.
 이번 대회에서는 창원대에서 마련한 대량의 한국어 데이터와 네이버의 클라우드 머신러닝 플랫폼인 NSML를 이용하여 참여할 수 있는데요.
@@ -11,8 +11,8 @@ i# 네이버, 창원대가 함께하는 NLP Challenge
 **개인 또는 팀(최대 3명)** 으로 참가 가능합니다. 네이버 폼으로 참가 신청하세요.
 **참가신청은 선착순 200팀으로 한정합니다.**
 - 신청기간: 2018-11-12부터, 200번째 팀 신청이 완료될 때까지
-- 참가 신청 폼: http://naver.me/GvLbmfQh (링크 수정 예정)
-  - 참가 동의서: https://github.com/naver/ai-hackathon-2018/blob/master/AGREEMENT.md (링크 수정 예정)
+- 참가 신청 폼: http://works.do/xaYe6e
+  - 참가 동의서: https://github.com/naver/nlp_challenge/blob/master/AGREEMENT.md (링크 수정 예정)
 
 ## 일정
 - 2018-11-16 12:00:00 시작: 훈련데이터 공개
