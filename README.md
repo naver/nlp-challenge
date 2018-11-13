@@ -44,7 +44,7 @@
 창원대학교 적응지능연구실, 네이버
 
 ## FAQ
-- [링크 추가 예정]
+- [FAQ 페이지](https://github.com/naver/nlp-challenge/blob/master/FAQ.md)
 
 ## 문의
 dl_nlp_challenge@navercorp.com 메일이나 issue 페이지에서 issue를 생성해주시면 담당자가 답을 해 드립니다.
