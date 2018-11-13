@@ -47,4 +47,4 @@
 - [링크 추가 예정]
 
 ## 문의
-dl_nlp_challenge@navercorp.com
+dl_nlp_challenge@navercorp.com 메일이나 issue 페이지에서 issue를 생성해주시면 담당자가 답을 해 드립니다.
