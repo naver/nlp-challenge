@@ -12,7 +12,7 @@
 **참가신청은 선착순 200팀으로 한정합니다.**
 - 신청기간: 2018-11-14부터, 200번째 팀 신청이 완료될 때까지
 - 참가 신청 폼: http://naver.me/IIF5AjtC
-  - 참가 동의서: https://github.com/naver/nlp-challenge/blob/master/AGREEMENT.md (링크 수정 예정)
+  - 참가 동의서: https://github.com/naver/nlp-challenge/blob/master/AGREEMENT.md
 
 ## 일정
 - 2018-11-16 12:00:00 시작: 훈련데이터 공개
