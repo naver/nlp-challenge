@@ -17,7 +17,7 @@
 - 참가 신청 후 다음 날 오후 1시부터 NSML에 접근 가능합니다.
 - NSML에 접근하기 위해서는 github id가 필요합니다.
   - **github 계정의 2 pass 인증을 해제**해 두어야 로그인이 가능합니다.
-- github에서 email 주소을 **public**으로 세팅하셔서 NSML 관련 메시지를 수신할 수 있게 해 주세요 ([이메일 설정 도움말](https://help.github.com/articles/setting-your-commit-email-address-on-github/))
+- github에서 email 주소을 **public**으로 세팅하셔서 NSML 관련 메시지를 수신할 수 있게 해 주세요 ([이메일 설정 도움말](https://help.github.com/articles/setting-your-commit-email-address-on-github/) private로 설정되지 않게 )
 
 ## 일정
 - 2018-11-16 12:00:00 시작: 훈련데이터 공개
