@@ -55,7 +55,7 @@
 - [FAQ 페이지](https://github.com/naver/nlp-challenge/blob/master/FAQ.md)
 
 ## 문의사항
-Issue 페이지(https://github.com/naver/nlp-challenge/issues)에 Tag를 추가하여 남겨주세요. 담당자가 답변드리겠습니다.
+[Issue 페이지](https://github.com/naver/nlp-challenge/issues)에 Tag를 추가하여 남겨주세요. 담당자가 답변드리겠습니다.
 
 ## 참고사항
 - 참가신청 변경은 대회종료 2주 전(12월 1일)까지 가능합니다.
