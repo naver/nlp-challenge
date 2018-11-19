@@ -55,4 +55,4 @@
 - [FAQ 페이지](https://github.com/naver/nlp-challenge/blob/master/FAQ.md)
 
 ## 문의
-dl_nlp_challenge@navercorp.com 메일이나 issue 페이지에서 issue를 생성해주시면 담당자가 답을 해 드립니다.
+nlp-challenge@naver.com 메일이나 issue 페이지에서 issue를 생성해주시면 담당자가 답을 해 드립니다.
