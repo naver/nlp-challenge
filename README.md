@@ -54,5 +54,11 @@
 ## FAQ
 - [FAQ 페이지](https://github.com/naver/nlp-challenge/blob/master/FAQ.md)
 
-## 문의
-nlp-challenge@naver.com 메일이나 issue 페이지에서 issue를 생성해주시면 담당자가 답을 해 드립니다.
+## 문의사항
+Issue 페이지(https://github.com/naver/nlp-challenge/issues)에 Tag를 추가하여 남겨주세요. 담당자가 답변드리겠습니다.
+
+## 참고사항
+- 참가신청 변경은 대회종료 2주 전(12월 1일)까지 가능합니다.
+- Issue 페이지 문의사항에 대한 답변 운영시간은 월-금 10:00-19:00 입니다.
+- 하루의 참가신청 내역을 취합하여 다음날 13시 이전까지 NSML 접속등록을 드립니다.
+  (단, 금요일 참가 신청 내역은 차주 월요일에 등록됨.)
