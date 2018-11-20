@@ -17,6 +17,7 @@
 - 참가 신청 폼: http://naver.me/IIF5AjtC
   - 참가 동의서: https://github.com/naver/nlp-challenge/blob/master/AGREEMENT.md
   - 팀 이름은 영어 대소문자 5~20 글자, 특수문자는 "_"만 가능합니다.
+  - 신청 이후 팀원 변경은 불가하오니 정보를 잘 확인해 주세요.
 - 참가 신청 후 다음 날 오후 1시부터 NSML에 접근 가능합니다.
 - NSML에 접근하기 위해서는 github id가 필요합니다.
   - **github 계정의 2 pass 인증을 해제**해 두어야 로그인이 가능합니다.
@@ -55,7 +56,7 @@
 - [FAQ 페이지](https://github.com/naver/nlp-challenge/blob/master/FAQ.md)
 
 ## 문의사항
-Issue 페이지(https://github.com/naver/nlp-challenge/issues)에 Tag를 추가하여 남겨주세요. 담당자가 답변드리겠습니다.
+[Issue 페이지](https://github.com/naver/nlp-challenge/issues)에 Tag를 추가하여 남겨주세요. 담당자가 답변드리겠습니다.
 
 ## 참고사항
 - 참가신청 변경은 대회종료 2주 전(12월 1일)까지 가능합니다.
