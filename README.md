@@ -7,7 +7,8 @@
 서로의 경험을 공유하고, 다양하고 창의적인 방법으로 문제를 해결해 보세요!
 
 # 공지 사항
-`2018-11-16 22:36` 훈련용 데이터가 공개 되었습니다 ([링크](https://github.com/naver/nlp-challenge/issues/1))
+- `2018-11-16 22:36` 훈련용 데이터가 공개 되었습니다 ([링크](https://github.com/naver/nlp-challenge/issues/1))
+- `2018-11-20 13:12` NER baseline 시스템이 공개되었습니다. ([링크](https://github.com/naver/nlp-challenge/tree/master/missions/ner))
 
 ## 참가신청
 한국어 자연어 처리에 관심있는 분이라면 누구나 참가 신청할 수 있습니다.
