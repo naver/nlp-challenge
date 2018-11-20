@@ -18,7 +18,7 @@ $ nsml run -d NER
 
 학습은 다음 명령행을 실행하여 시작할 수 있습니다.
 ```bash
-$ nsml run -e main.py -d SRL
+$ nsml run -e main.py -d NER
 ```
 
 학습 중 다음 명령행을 실행하여 로그를 확인할 수 있습니다.
