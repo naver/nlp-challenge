@@ -64,9 +64,6 @@ class Model:
 
         return cell
 
-    def _build_multi_cell(self, lstm_units, keep_prob, depth):
-        return tf.nn.rnn_cell.MultiRNNCell([self._build_single_cell(lstm_units, keep_prob) for i in range(depth)])
-
     def _build_weight(self, shape, scope="weight"):
         with tf.variable_scope(scope):
             W = tf.get_variable(name="W", shape=[shape[0], shape[1]], dtype=tf.float32, initializer = tf.contrib.layers.xavier_initializer())
@@ -113,14 +110,6 @@ class Model:
         with tf.variable_scope("output_layer"):
             train_op = tf.train.AdamOptimizer(self.parameter["learning_rate"]).minimize(cost, global_step=self.global_step)
         return train_op
- 
-    def sparse_cross_entropy_loss(self):
-        loss = tf.nn.sparse_softmax_cross_entropy_with_logits(logits=self.logits, labels=self.targets)
-        cost = tf.reduce_mean(loss)
-        self.masked_losses = self.mask * loss
-        self.masked_losses = tf.reshape(self.masked_losses, tf.shape(self.Y))
-        cost = tf.reduce_mean(tf.reduce_sum(self.masked_losses, 1) / tf.to_float(self.S))
-        return loss, cost
 
 
 if __name__ == "__main__":
