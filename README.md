@@ -11,6 +11,7 @@
 - `2018-11-20 13:12` NER baseline 시스템이 공개되었습니다. ([링크](https://github.com/naver/nlp-challenge/tree/master/missions/ner))
 - `2018-11-21 16:41` 팀명 변경 및 팀원 정보 변경은 불가능 한 점 양해 부탁드립니다.
 - `2018-11-26 15:48` SRL baseline 시스템이 공개되었습니다. ([링크](https://github.com/naver/nlp-challenge/tree/master/missions/srl))
+- `2018-12-03 15:01` NLP Workshop 참가신청이 시작되었습니다. ([링크](https://github.com/naver/nlp-challenge/blob/master/nlp-workshop.md))
 
 ## 참가신청
 한국어 자연어 처리에 관심있는 분이라면 누구나 참가 신청할 수 있습니다.
@@ -21,6 +22,7 @@
   - 참가 동의서: https://github.com/naver/nlp-challenge/blob/master/AGREEMENT.md
   - (중요) **신청 이후 팀명 및 팀원의 추가/삭제/변경은 불가하오니 신청 정보를 잘 확인해 주세요.**
 - NSML에 접근하기 위해서는 github 계정이 필요합니다.
+- 시상식을 포함한 NLP Workshop은 별도의 [참가신청](https://github.com/naver/nlp-challenge/blob/master/nlp-workshop.md)이 필요합니다.
 
 ## (:star: 필독) 참가신청 주의사항
 다음 사항을 지켜주시지 않으면 참가 등록에 **불이익**이 발생할 수 있습니다. **반드시** 확인해주세요.
@@ -39,7 +41,7 @@
 ## 일정
 - 2018-11-16 12:00:00 시작: 훈련데이터 공개
 - 2018-12-15 00:00:00 종료
-- 2018-12-28 11:00 우수 참가자 시상식을 포함한 워크샵 (네이버 그린팩토리 2층)
+- 2018-12-28 11:00 우수 참가자 시상식을 포함한 워크샵 (네이버 그린팩토리 2층) [참가신청](https://github.com/naver/nlp-challenge/blob/master/nlp-workshop.md)
 
 ## 미션
 - [개체명 인식(NER)](http://air.changwon.ac.kr/?page_id=10)
