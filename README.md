@@ -12,6 +12,7 @@
 - `2018-11-21 16:41` 팀명 변경 및 팀원 정보 변경은 불가능 한 점 양해 부탁드립니다.
 - `2018-11-26 15:48` SRL baseline 시스템이 공개되었습니다. ([링크](https://github.com/naver/nlp-challenge/tree/master/missions/srl))
 - `2018-12-03 15:01` NLP Workshop 참가신청이 시작되었습니다. ([링크](https://github.com/naver/nlp-challenge/blob/master/nlp-workshop.md))
+- `2018-12-03 17:26` 참가 신청 폼이 다시 열렸습니다. 추가 참가 신청이 가능한 상태입니다.
 
 ## 참가신청
 한국어 자연어 처리에 관심있는 분이라면 누구나 참가 신청할 수 있습니다.
