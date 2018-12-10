@@ -18,7 +18,7 @@
 ## 세부일정
 <table>
 <tr><th>시간</th><th colspan=2>내용</th><tr>
-<tr><td>10:30~11:00</td><td></td><td>행사 등록 및 준비</td></tr>
+<tr><td>10:30~11:00</td><td></td><td>행사 등록</td></tr>
 <tr><td>11:00~11:50</td><td>강인호 리더 (Naver NLP)</td><td>개회사 및 Naver NLP 기술 소개</td></tr>
 <tr><td>11:50~12:10</td><td></td><td>Coffee Break</td></tr>
 <tr><td>12:10~12:40</td><td></td><td>NLP Challenge 우수팀 포스터 발표</td></tr>
@@ -27,7 +27,7 @@
 <tr><td>14:30~15:20</td><td>조영환 실장 (인공지능연구원)</td><td>[초청강연] 멀티모달 대화시스템과 자연어 처리의 역할</td></tr>
 <tr><td>15:20~15:40</td><td></td><td>Coffee Break</td></tr>
 <tr><td>15:40~16:20</td><td></td><td>NLP Challenge 우수팀 구두 발표</td></tr>
-<tr><td>16:20~16:40</td><td></td><td>시상식 및 경품추첨</td></tr>
+<tr><td>16:20~16:40</td><td>차정원 교수 (창원대학교 컴퓨터공학과)</td><td>시상식 및 폐회사 / 경품추첨</td></tr>
 </table>
 * 세부일정은 현장상황에 따라 변경될 수 있습니다.
 <br>
