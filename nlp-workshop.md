@@ -12,7 +12,7 @@
 
 ## 일정
 - 2018년 12월 28일 (금) 11:00~
-- [네이버 그린팩토리 2층 커넥트홀](http://naver.me/IgBD4gER) (주차 지원이 불가능하여, 대중교통 이용 부탁 드립니다.)
+- [네이버 그린팩토리 2층 커넥트홀](https://map.naver.com/?perimeter=0&lng=d294b86d92db117927d8bcad4d9ba638&pinId=12758193&dlevel=11&lat=f91a88b1a2f94d9beefb05cbb8392589cf77eeb01466d5e87de250edcf13d109&enc=b64&pinType=site) (주차 지원이 불가능하여, 대중교통 이용 부탁 드립니다.)
 <br>
 
 ## 세부일정
