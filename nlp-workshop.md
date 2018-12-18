@@ -21,14 +21,20 @@
 <tr><td>10:30~11:00</td><td></td><td>행사 등록</td></tr>
 <tr><td>11:00~11:50</td><td>강인호 리더 (Naver NLP)</td><td>개회사 및 Naver NLP 기술 소개</td></tr>
 <tr><td>11:50~12:40</td><td></td>
-  <td>SRL Track 우수팀 구두 발표
+  <td>SRL Track 우수팀 발표
+  <br>&nbsp;&nbsp;- Sogang_Alzzam: 박찬민, 박영준 (서강대학교 자연어처리연구실)
+  <br>&nbsp;&nbsp;- KANE_team: 함영균, 김동환, 최기선 (KAIST SWRC)
+  <br>&nbsp;&nbsp;- kozistr_team: 김형찬 (한국기술교육대학교)
   </td></tr>
 <tr><td>12:40~13:40</td><td></td><td>Lunch</td></tr>
 <tr><td>13:40~14:30</td><td>남호성 교수 (고려대학교 영어영문과)</td><td>[초청강연] Null space in neural language processing</td></tr>
 <tr><td>14:30~15:20</td><td>조영환 실장 (인공지능연구원)</td><td>[초청강연] 멀티모달 대화시스템과 자연어 처리의 역할</td></tr>
 <tr><td>15:20~15:40</td><td></td><td>Coffee Break</td></tr>
 <tr><td>15:40~16:30</td><td></td>
-  <td>NER Track 우수팀 구두 발표
+  <td>NER Track 우수팀 발표
+  <br>&nbsp;&nbsp;- State_Of_The_Art: 박동주 (광주과학기술원)
+  <br>&nbsp;&nbsp;- nlp_pln: 이신의, 박장원, 박종성 (연세대학교 데이터공학연구실)
+  <br>&nbsp;&nbsp;- bible: 현청천 (HELLO NMS)
   </td></tr>
 <tr><td>16:30~17:00</td><td>차정원 교수 (창원대학교 컴퓨터공학과)</td><td>시상식 및 폐회사 / 경품추첨</td></tr>
 </table>
