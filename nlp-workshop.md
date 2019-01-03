@@ -32,7 +32,7 @@
 <tr><td>15:20~15:40</td><td></td><td>Coffee Break</td></tr>
 <tr><td>15:40~16:30</td><td></td>
   <td>NER Track 우수팀 발표
-  <br>&nbsp;&nbsp;- State_Of_The_Art: 박동주 (광주과학기술원) <a href="https://github.com/naver/nlp-challenge/raw/master/slides/Naver.NLP.Workshop.NER.State_Of_The_Art.pdf">[발표자료]</a>
+  <br>&nbsp;&nbsp;- State_Of_The_Art: 박동주 (광주과학기술원) <a href="https://github.com/naver/nlp-challenge/raw/master/slides/Naver.NLP.Workshop.NER.State_Of_The_Art.pdf">[발표자료]</a><a href="https://github.com/toriving/naver-nlp-challenge-2018">[소스코드]</a>
   <br>&nbsp;&nbsp;- nlp_pln: 이신의, 박장원, 박종성 (연세대학교 데이터공학연구실) <a href="https://github.com/naver/nlp-challenge/raw/master/slides/Naver.NLP.Workshop.NER.nlp_pln.pdf">[발표자료]</a><a href="https://github.com/monologg/naver-nlp-challenge-2018">[소스코드]</a>
   <br>&nbsp;&nbsp;- bible: 현청천 (HELLO NMS) <a href="https://github.com/naver/nlp-challenge/raw/master/slides/Naver.NLP.Workshop.NER.bible.pdf">[발표자료]</a><a href="https://github.com/paul-hyun/modu-ner/tree/paul-hyun">[소스코드]</a>
   </td></tr>
